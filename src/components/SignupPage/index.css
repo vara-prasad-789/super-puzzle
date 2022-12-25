@@ -1,0 +1,30 @@
+.signup-page{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+.signup-form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.signup-labels{
+    font-size: 20px;
+    font-weight: 600;
+    margin: 8px;
+}
+.signup-inputs{
+    padding: 10px;
+    font-size: 20px;
+    font-weight: 700;
+    margin: 5px;
+}
+.signup-btn-forme{
+    padding: 12px;
+    margin: 10px;
+    font-size: 20px;
+    font-weight: 900;
+}

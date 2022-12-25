@@ -1,0 +1,37 @@
+.login-page{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    width: 100vw;
+}
+.login-form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.labels{
+    text-align: left;
+    font-weight: 600;
+    margin: 10px;
+    font-size: 20px;
+}
+.inputs{
+    padding: 5px;
+    margin: 5px;
+    font-size: 20px;
+}
+.login-btn{
+    padding: 8px;
+    margin: 8px;
+    font-size: 18px;
+    font-weight: 900;
+}
+.signup-btn{
+    padding: 8px;
+    margin: 8px;
+    font-size: 18px;
+    font-weight: 900;
+}
